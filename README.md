@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking System (JavaFX Prototype)
 
-This is a JavaFX-based Hotel Booking System prototype built for a Software Design and Architecture course at IIUM. The application demonstrates key software engineering principles including Layered Architecture and the Factory Method Design Pattern.
+This is a JavaFX-based Hotel Booking System prototype built for a Software Design and Architecture course. The application demonstrates key software engineering principles including Layered Architecture and the Factory Method Design Pattern.
 
 ## ✨ Features
 - Customer registration and booking interface
