@@ -21,7 +21,7 @@ This is a JavaFX-based Hotel Booking System prototype built for a Software Desig
 - Git
 
 ## 🖼️ Screenshot
-![UI Screenshot](screenshots/ui-sample.png)
+![UI Screenshot](https://imgur.com/a/p3Uy1kN)
 
 ## 📦 How to Run
 1. Clone the repo
